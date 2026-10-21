@@ -14,10 +14,10 @@ const server = http.createServer((req, res) => {
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Projeto Cloud</title>
+    <title>Projeto Cloud eu amo o godzilla</title>
 </head>
 <body>
-    <h1>Projeto Cloud</h1>
+    <h1>Projeto Cloud eu amo o godzilla</h1>
     <p>Página inicial</p>
 
     <nav>
